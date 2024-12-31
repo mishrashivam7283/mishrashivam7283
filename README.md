@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Shivam Mishra
+- 👀 I’m I’m passionate about analyzing data and uncovering key insights to create impactful models.
+- 🌱 I’m currently learning advanced machine learning techniques and enhancing my skills in data science
+- 💞️ I’m looking to collaborate on data-driven projects, machine learning applications, and data science initiatives.
+- 📫 Reach me at mishrashivam7283@gmail.com or connect on LinkedIn(https://www.linkedin.com/in/shivammishra-lko).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:  I’m great with data, but I always struggle to find the correlation between weekends and productivity.
